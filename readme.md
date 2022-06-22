@@ -13,3 +13,4 @@ Prerequiste tools needed
 3. Azure Synapase SQL pool
 
 
+The goal is to build an ETL pipeline that can process both full and incremental load from the Data lake folder source table and load to the target SQL table
