@@ -14,3 +14,11 @@ Prerequiste tools needed
 
 
 The goal is to build an ETL pipeline that can process both full and incremental load from the Data lake folder source table and load to the target SQL table
+
+
+Project assignment
+1. Build an ETL pipeline using Data factory that reads first the full load loads it into the Target SQL db table
+2. Read the incremental file and process and load into the Target SQL table.
+3. Final Target table should look like the below
+
+![image](https://user-images.githubusercontent.com/20451211/175101501-12abfbd2-34f1-4872-b5b1-be5e5418a2c4.png)
