@@ -22,3 +22,6 @@ Project assignment
 3. Final Target table should look like the below
 
 ![image](https://user-images.githubusercontent.com/20451211/175101501-12abfbd2-34f1-4872-b5b1-be5e5418a2c4.png)
+
+![image](https://user-images.githubusercontent.com/20451211/183940348-d5762b6b-b45d-446e-9357-dd7527b7f78d.png)
+
